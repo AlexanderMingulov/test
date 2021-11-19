@@ -1,0 +1,18 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./spec/runner"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.10.0",
+    "selenium-webdriver": "^4.0.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^95.0.0"
+  }
+}
